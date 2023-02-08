@@ -1,7 +1,7 @@
-# projects
+# Projects
 This repository contains all personal/class computer engineering projects
 
-##########################################################################################################################
+---------------------------------------------------------------------------------------------
 FPGA: TUG OF WAR - Digital Systems Design Course Project
 
 Authors: Matthew Labrador, Mikaylo Santiago
@@ -14,7 +14,7 @@ within a given clock cycle. The system will consist of two major modules: player
 The goal of this project was to gain a better understanding of System Verilog, VGA code, and code for external 
 periphals - matrix numberpad.
 
-##########################################################################################################################
+---------------------------------------------------------------------------------------------
 
 Smart Parking System - Internet of Things Course Project
 
@@ -33,4 +33,4 @@ network is communicated in real time. This project proposes a solution that pote
 lost as well as reduce travel time when a user is seeking a vacant parking space, hence the user being able to see available 
 parking spots ahead of time.
 
-##########################################################################################################################
+---------------------------------------------------------------------------------------------
