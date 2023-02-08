@@ -2,7 +2,7 @@
 This repository contains all personal/class computer engineering projects
 
 ---------------------------------------------------------------------------------------------
-FPGA: TUG OF WAR - Digital Systems Design Course Project
+FPGA: TUG OF WAR - Digital Systems Design Course Project ( File: TUG_OF_WAR.zip )
 
 Authors: Matthew Labrador, Mikaylo Santiago
 
@@ -16,7 +16,7 @@ periphals - matrix numberpad.
 
 ---------------------------------------------------------------------------------------------
 
-Smart Parking System - Internet of Things Course Project
+Smart Parking System - Internet of Things Course Project ( File: smart_parking_system.zip )
 
 Author: Mikaylo Santiago
 
